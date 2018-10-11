@@ -63,7 +63,8 @@ h2 {
 
 .deck {
     width: 660px;
-    min-height: 1330px;
+    min-height: 605px;
+    margin: 363px 0 0 0px;
     background-color: rgba(28, 38, 47, 0.7);
     position: absolute;
     z-index: -1;
