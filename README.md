@@ -10,7 +10,6 @@
 * [CSS](#css)
 * [Java-Script](#java-script)
 * [Play-game](#play-game)
-* [Bugs](#bugs)
 
 ## Introduction
 
@@ -69,6 +68,6 @@ To explain what is happening in app.js, I found [this](https://discussions.udaci
 
 ## Play-game
 
-[HERE](http://www.encoreservices.co.za/udacity/memoryGameProject/index.html) is a link to the game hosted by Encore Services, have fun and please let me know if you encounter any bugs. This game is not built to be responsive across different devices.
+[HERE](http://www.encoreservices.co.za/udacity/ClassicArcadeGame/index.html) is a link to the game hosted by Encore Services, have fun and please let me know if you encounter any bugs. This game is not built to be responsive across different devices.
 
 [Table of Contents](#table-of-contents)
